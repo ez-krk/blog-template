@@ -4,6 +4,7 @@ function Homepage(props) {
   return (
     <div>
       <h1>Welcome to {props.blogTitle}!</h1>
+      Whaddupp bitchessss
     </div>
   );
 }
