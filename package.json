@@ -1,0 +1,22 @@
+{
+  "name": "watchbar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:krk-finance/watchbar.git",
+  "author": "krk-dev <dev@krk.finance>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "next": "^12.1.4",
+    "node-sass": "^7.0.1",
+    "raw-loader": "^4.0.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-markdown": "^8.0.2"
+  }
+}
